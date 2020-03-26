@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MusicalQuizMaterial</string>
+    <string name="boton_puntuacion">puntuación</string>
+    <string name="instrucciones1">Adivina el grupo musical al que pertenece este disco</string>
+    <string name="instrucciones2">Pulsa el botón con la respuesta correcta:</string>
+
+    <string name="respuesta1A">A. Kraftwerk</string>
+    <string name="respuesta1B">B. Massive Attack</string>
+    <string name="respuesta1C">C. New Order</string>
+
+    <string name="respuesta2A">A. Hot Chip</string>
+    <string name="respuesta2B">B. The Gossip</string>
+    <string name="respuesta2C">C. Delorean</string>
+
+    <string name="respuesta3A">A. Scissor Sisters</string>
+    <string name="respuesta3B">B. Hercules and the Love Affair</string>
+    <string name="respuesta3C">C. The 2 Bears</string>
+
+    <string name="respuesta4A">A. The Chemical Brothers</string>
+    <string name="respuesta4B">B. Gorillaz</string>
+    <string name="respuesta4C">C. Orbital</string>
+    <string name="puntuacion_titulo">Puntuación:</string>
+    <string name="puntuacion">10</string>
+</resources>
